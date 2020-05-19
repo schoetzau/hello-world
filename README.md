@@ -1,2 +1,3 @@
 # hello-world
-My hello world repository
+
+Playin' around with github. Did you know that I love SomaFM Groove Salad?
